@@ -1,4 +1,4 @@
-public class ex1{
+public class ex1{	//converter temperatura em °C para °F
 	public static void main(String args[]){
 		
 		double C;
